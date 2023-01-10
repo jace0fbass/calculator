@@ -32,7 +32,7 @@ h2 {
     grid-template-columns: repeat(4, 90px);
     grid-template-rows: minmax(120px, auto) repeat(5, 100px);
     
-    margin-top: -45px;
+    margin-top: -40px;
 }
 
 .calculator-grid > bottom {
